@@ -1,0 +1,22 @@
+Help and Insructions
+###########################################################################################
+--------------------------------------------------------------------------------------------
+1.Registration
+*	You must register(create a user account)before login
+*	Do not use space when you creating username and password
+-------------------------------------------------------------------------------------------
+2.Login
+*	Please enter your username and password correctly
+       (What you input for register)
+-------------------------------------------------------------------------------------------
+3.Insert
+*	Insert the item name without placing space, instead of space use _for separate            two words
+-------------------------------------------------------------------------------------------
+4.search
+*	Please insert the item code.
+*	Do not enter 04. Instead please enter 4(item code)
+-------------------------------------------------------------------------------------------
+
+ 
+5.Enter Y,y for Yes ,No for n,N
+###########################################################################################

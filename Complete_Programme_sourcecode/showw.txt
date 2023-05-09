@@ -1,0 +1,12 @@
+Item code	Item Name			Price			Quantity
+[01]		Bed NETRO(Mahogany)75X60	49,599.00		04
+[02]		Bed KENNY(Mahogany)80x60	54,500.00		05	
+[03]		Audio Video Cabinet		54,500.00		10
+[04]		Computer Table			24,500.00		20
+[05]		2D Cupboard			88,500.00		23
+[06]		Cashier Table			23,000.00		10
+[07]		Coffee Table(Pebales)		17,500.00		15
+[08]		Conference Table		10,300.00		16
+[09]		DinningSet(06 Seater|Magogany) 177,500.00		10
+    
+        
